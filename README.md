@@ -1,4 +1,4 @@
-# Tindog Website
+# TinDog Website
 
 Sample Website built using HTML, CSS and Bootstrap
 
